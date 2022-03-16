@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32e0a51c.css",
+    "main.js": "/static/js/main.145cba0f.js",
+    "static/media/chocolate-geec8e3400_1920.jpg": "/static/media/chocolate-geec8e3400_1920.24a12c45091cb2fbda06.jpg",
+    "static/media/chocolate-cake-g9364fa973_1920.jpg": "/static/media/chocolate-cake-g9364fa973_1920.90372f38b00e1ed694a7.jpg",
+    "static/media/fofuras.jpg": "/static/media/fofuras.82dbeea70e90359e866b.jpg",
+    "index.html": "/index.html",
+    "main.32e0a51c.css.map": "/static/css/main.32e0a51c.css.map",
+    "main.145cba0f.js.map": "/static/js/main.145cba0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e0a51c.css",
+    "static/js/main.145cba0f.js"
+  ]
+}
